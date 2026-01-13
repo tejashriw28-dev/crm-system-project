@@ -24,7 +24,9 @@ To design, configure, and roll out a Salesforce-based CRM system that improves l
 - Coordinated between sales, IT, and CRM vendor  
 - Created Jira stories and sprint plans  
 - Tracked risks, timelines, and deliverables  
-- Supported testing and user training  
+- Supported testing and user training
+
+  ![Jira Board](./images/jira-board.png)
 
 ## Project Deliverables
 - Business Requirements Document  
@@ -33,8 +35,6 @@ To design, configure, and roll out a Salesforce-based CRM system that improves l
 - Risk Register  
 - Implementation Timeline  
 - User Acceptance Testing (UAT) Plan
-
-![Jira Board](./images/jira-board.png.png)
 
 ## Outcome
 The CRM system improved lead visibility, reduced response time, and enabled management to track sales performance in real time.
