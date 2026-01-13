@@ -32,7 +32,11 @@ To design, configure, and roll out a Salesforce-based CRM system that improves l
 - Jira Sprint Board  
 - Risk Register  
 - Implementation Timeline  
-- User Acceptance Testing (UAT) Plan  
+- User Acceptance Testing (UAT) Plan
+
+![Jira Board](./images/jira-board.png)
+![Project Timeline](./images/timeline.png)
+![Risk Register](./images/risk-register.png)
 
 ## Outcome
 The CRM system improved lead visibility, reduced response time, and enabled management to track sales performance in real time.
